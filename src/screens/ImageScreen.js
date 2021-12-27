@@ -1,6 +1,6 @@
 import React from "react";
 import { Text, StyleSheet, View, Button, TouchableOpacity } from "react-native";
-import ImageDetail from "./Components/ImageDetail";
+import ImageDetail from "../Components/ImageDetail";
 
 const ImageScreen = () => {
   return (
